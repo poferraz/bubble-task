@@ -1,6 +1,10 @@
 # BubbleTask
 
-A task management application built with modern web technologies.
+A daily task management bubble board built with modern web technologies.
+
+## About
+
+A daily task management bubble board application designed to help users organize and track their daily tasks in an intuitive, visual interface.
 
 ## Project Structure
 
