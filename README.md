@@ -1,4 +1,4 @@
-# Bubble-Task
+# bubble-task
 
 <p align="center">
   <strong>A daily task management bubble board.</strong>
